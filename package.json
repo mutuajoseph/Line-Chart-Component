@@ -1,0 +1,26 @@
+{
+  "name": "stackblitz-starters-top4cp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-spring/web": "^9.4.5",
+    "@types/lodash": "^4.14.195",
+    "@types/react": "18.2.15",
+    "@types/react-dom": "18.2.7",
+    "@visx/axis": "^3.3.0",
+    "@visx/visx": "^3.3.0",
+    "@visx/xychart": "^3.3.0",
+    "lodash": "^4.17.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
